@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WBD_Session12_Practice_Currency_Conversion_Application_JSP:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WBD_Session12_Practice_Currency_Conversion_Application_JSP_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WBD_Session12_Practice_Currency_Conversion_Application_JSP/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WBD_Session12_Practice_Currency_Conversion_Application_JSP" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
